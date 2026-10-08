@@ -1,0 +1,286 @@
+[
+  {
+    "orderNumber": "FL-2026-6732",
+    "status": "Confirmed",
+    "statusTimeline": [
+      {
+        "status": "Order Placed",
+        "timestamp": "2026-09-04T08:05:39.710Z",
+        "description": "Order received and logged at FHIFE LUXE Atelier"
+      },
+      {
+        "status": "In Atelier Preparation",
+        "timestamp": "2026-09-04T08:05:39.710Z",
+        "description": "Artisans preparing fragrance and bespoke packaging"
+      },
+      {
+        "status": "Dispatched",
+        "timestamp": null,
+        "description": "Dispatched with secure luxury courier"
+      },
+      {
+        "status": "Delivered",
+        "timestamp": null,
+        "description": "Delivered to recipient with Certificate of Authenticity"
+      }
+    ],
+    "createdAt": "2026-09-04T08:05:39.710Z",
+    "estimatedDelivery": "2026-09-07",
+    "customer": {
+      "fullName": "Kolawole Balogun",
+      "email": "kola@balogun.ng",
+      "phone": "+234 803 987 6543",
+      "address": "10 Victoria Garden City, Lekki",
+      "city": "Lagos",
+      "state": "Lagos State",
+      "postalCode": ""
+    },
+    "items": [
+      {
+        "id": "oba-pendant",
+        "name": "Oba Pendant",
+        "price": 850000,
+        "quantity": 1,
+        "lineTotal": 850000,
+        "image": ""
+      }
+    ],
+    "itemCount": 1,
+    "gifting": {
+      "includeWrap": true,
+      "message": "A royal emblem for a revered leader."
+    },
+    "payment": {
+      "method": "Instant Bank Transfer",
+      "status": "Paid / Authorized"
+    },
+    "pricing": {
+      "subtotal": 850000,
+      "discount": 85000,
+      "promoCode": "LAGOS10",
+      "giftWrapFee": 15000,
+      "shippingFee": 0,
+      "grandTotal": 780000,
+      "currency": "NGN"
+    },
+    "notes": ""
+  },
+  {
+    "orderNumber": "FL-2026-9081",
+    "status": "Confirmed",
+    "statusTimeline": [
+      {
+        "status": "Order Placed",
+        "timestamp": "2026-09-04T08:05:39.648Z",
+        "description": "Order received and logged at FHIFE LUXE Atelier"
+      },
+      {
+        "status": "In Atelier Preparation",
+        "timestamp": "2026-09-04T08:05:39.648Z",
+        "description": "Artisans preparing fragrance and bespoke packaging"
+      },
+      {
+        "status": "Dispatched",
+        "timestamp": null,
+        "description": "Dispatched with secure luxury courier"
+      },
+      {
+        "status": "Delivered",
+        "timestamp": null,
+        "description": "Delivered to recipient with Certificate of Authenticity"
+      }
+    ],
+    "createdAt": "2026-09-04T08:05:39.648Z",
+    "estimatedDelivery": "2026-09-07",
+    "customer": {
+      "fullName": "Folake Adeleke",
+      "email": "folake@adeleke.com",
+      "phone": "+234 802 345 6789",
+      "address": "22 Queen Amina Way, Ikoyi",
+      "city": "Lagos",
+      "state": "Lagos State",
+      "postalCode": "101233"
+    },
+    "items": [
+      {
+        "id": "orijin-oud",
+        "name": "Orijin Oud",
+        "price": 145000,
+        "quantity": 2,
+        "lineTotal": 290000,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDysN3BFkrdPciFatN1u2XYbo7ppX1JORM-A3tbsl7e3l6-KjXl3n5fGEKpqFnsIsa8Sio1tUXN2IqH2hPvbV2eASsAzWXiS_3uYg9oMnXbOTPVlTVXakz8kGf3pXyBp8EvZ1FeX6434Gy86v02ggSLilo1TeZCw7-7MmSQai8rQPIHjgAReRLsRkAzLDgLIz3ZlfiLQy1T6L7gL91kT2Zv_EhVn9hxlvwgdSpMkr-L1rJ8gjs5a2OA"
+      },
+      {
+        "id": "bronze-coast-oil",
+        "name": "Bronze Coast Oil",
+        "price": 120000,
+        "quantity": 1,
+        "lineTotal": 120000,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDdG7X9XucBB-8544ATso9eirG2YJ24aIVxxrLmzIg-k0a_Qvy_1CwC8hN4JfJTQmpLYk6u17sYpYIcVjwLXBg0sE2pGnpZF3vVyvr_yHMrg4gWJuMeMlG0DqUJCz4imv_PW_TqrpQJuRrQa13qoFszf_ZtGfJU4CMMRyoBT4exwupc96EiQ4JurmweJq1M--WeQuLFrEKRbo6-hSCKiXljDreMMI4Z-2G0PJ5p5eT1q-phUp0oJZRP"
+      }
+    ],
+    "itemCount": 3,
+    "gifting": {
+      "includeWrap": true,
+      "message": "Wishing you eternal grace and prosperity."
+    },
+    "payment": {
+      "method": "Secure Card (ILÉ Pay)",
+      "status": "Paid / Authorized"
+    },
+    "pricing": {
+      "subtotal": 410000,
+      "discount": 0,
+      "promoCode": "",
+      "giftWrapFee": 15000,
+      "shippingFee": 0,
+      "grandTotal": 425000,
+      "currency": "NGN"
+    },
+    "notes": ""
+  },
+  {
+    "orderNumber": "FL-2026-9263",
+    "status": "Confirmed",
+    "statusTimeline": [
+      {
+        "status": "Order Placed",
+        "timestamp": "2026-09-04T07:54:53.274Z",
+        "description": "Order received and logged at FHIFE LUXE Atelier"
+      },
+      {
+        "status": "In Atelier Preparation",
+        "timestamp": "2026-09-04T07:54:53.274Z",
+        "description": "Artisans preparing fragrance and bespoke packaging"
+      },
+      {
+        "status": "Dispatched",
+        "timestamp": null,
+        "description": "Dispatched with secure luxury courier"
+      },
+      {
+        "status": "Delivered",
+        "timestamp": null,
+        "description": "Delivered to recipient with Certificate of Authenticity"
+      }
+    ],
+    "createdAt": "2026-09-04T07:54:53.274Z",
+    "estimatedDelivery": "2026-09-07",
+    "customer": {
+      "fullName": "Folake Adeleke",
+      "email": "folake@adeleke.com",
+      "phone": "+234 802 345 6789",
+      "address": "22 Queen Amina Way, Ikoyi",
+      "city": "Lagos",
+      "state": "Lagos State",
+      "postalCode": "101233"
+    },
+    "items": [
+      {
+        "id": "orijin-oud",
+        "name": "Orijin Oud",
+        "price": 145000,
+        "quantity": 2,
+        "lineTotal": 290000,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDysN3BFkrdPciFatN1u2XYbo7ppX1JORM-A3tbsl7e3l6-KjXl3n5fGEKpqFnsIsa8Sio1tUXN2IqH2hPvbV2eASsAzWXiS_3uYg9oMnXbOTPVlTVXakz8kGf3pXyBp8EvZ1FeX6434Gy86v02ggSLilo1TeZCw7-7MmSQai8rQPIHjgAReRLsRkAzLDgLIz3ZlfiLQy1T6L7gL91kT2Zv_EhVn9hxlvwgdSpMkr-L1rJ8gjs5a2OA"
+      },
+      {
+        "id": "bronze-coast-oil",
+        "name": "Bronze Coast Oil",
+        "price": 120000,
+        "quantity": 1,
+        "lineTotal": 120000,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDdG7X9XucBB-8544ATso9eirG2YJ24aIVxxrLmzIg-k0a_Qvy_1CwC8hN4JfJTQmpLYk6u17sYpYIcVjwLXBg0sE2pGnpZF3vVyvr_yHMrg4gWJuMeMlG0DqUJCz4imv_PW_TqrpQJuRrQa13qoFszf_ZtGfJU4CMMRyoBT4exwupc96EiQ4JurmweJq1M--WeQuLFrEKRbo6-hSCKiXljDreMMI4Z-2G0PJ5p5eT1q-phUp0oJZRP"
+      }
+    ],
+    "itemCount": 3,
+    "gifting": {
+      "includeWrap": true,
+      "message": "Wishing you eternal grace and prosperity."
+    },
+    "payment": {
+      "method": "Secure Card (ILÉ Pay)",
+      "status": "Paid / Authorized"
+    },
+    "pricing": {
+      "subtotal": 410000,
+      "giftWrapFee": 15000,
+      "shippingFee": 0,
+      "grandTotal": 425000,
+      "currency": "NGN"
+    },
+    "notes": ""
+  },
+  {
+    "orderNumber": "FL-2026-6307",
+    "status": "Confirmed",
+    "statusTimeline": [
+      {
+        "status": "Order Placed",
+        "timestamp": "2026-08-30T09:56:42.608Z",
+        "description": "Order received and logged at FHIFE LUXE Atelier"
+      },
+      {
+        "status": "In Atelier Preparation",
+        "timestamp": "2026-08-30T09:56:42.608Z",
+        "description": "Artisans preparing fragrance and bespoke packaging"
+      },
+      {
+        "status": "Dispatched",
+        "timestamp": null,
+        "description": "Dispatched with secure luxury courier"
+      },
+      {
+        "status": "Delivered",
+        "timestamp": null,
+        "description": "Delivered to recipient with Certificate of Authenticity"
+      }
+    ],
+    "createdAt": "2026-08-30T09:56:42.608Z",
+    "estimatedDelivery": "2026-09-02",
+    "customer": {
+      "fullName": "Folake Adeleke",
+      "email": "folake@adeleke.com",
+      "phone": "+234 802 345 6789",
+      "address": "22 Queen Amina Way, Ikoyi",
+      "city": "Lagos",
+      "state": "Lagos State",
+      "postalCode": "101233"
+    },
+    "items": [
+      {
+        "id": "orijin-oud",
+        "name": "Orijin Oud",
+        "price": 145000,
+        "quantity": 2,
+        "lineTotal": 290000,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDysN3BFkrdPciFatN1u2XYbo7ppX1JORM-A3tbsl7e3l6-KjXl3n5fGEKpqFnsIsa8Sio1tUXN2IqH2hPvbV2eASsAzWXiS_3uYg9oMnXbOTPVlTVXakz8kGf3pXyBp8EvZ1FeX6434Gy86v02ggSLilo1TeZCw7-7MmSQai8rQPIHjgAReRLsRkAzLDgLIz3ZlfiLQy1T6L7gL91kT2Zv_EhVn9hxlvwgdSpMkr-L1rJ8gjs5a2OA"
+      },
+      {
+        "id": "bronze-coast-oil",
+        "name": "Bronze Coast Oil",
+        "price": 120000,
+        "quantity": 1,
+        "lineTotal": 120000,
+        "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDdG7X9XucBB-8544ATso9eirG2YJ24aIVxxrLmzIg-k0a_Qvy_1CwC8hN4JfJTQmpLYk6u17sYpYIcVjwLXBg0sE2pGnpZF3vVyvr_yHMrg4gWJuMeMlG0DqUJCz4imv_PW_TqrpQJuRrQa13qoFszf_ZtGfJU4CMMRyoBT4exwupc96EiQ4JurmweJq1M--WeQuLFrEKRbo6-hSCKiXljDreMMI4Z-2G0PJ5p5eT1q-phUp0oJZRP"
+      }
+    ],
+    "itemCount": 3,
+    "gifting": {
+      "includeWrap": true,
+      "message": "Wishing you eternal grace and prosperity."
+    },
+    "payment": {
+      "method": "Secure Card (ILÉ Pay)",
+      "status": "Paid / Authorized"
+    },
+    "pricing": {
+      "subtotal": 410000,
+      "giftWrapFee": 15000,
+      "shippingFee": 0,
+      "grandTotal": 425000,
+      "currency": "NGN"
+    },
+    "notes": ""
+  }
+]

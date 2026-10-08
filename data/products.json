@@ -1,0 +1,218 @@
+[
+  {
+    "id": "orijin-oud",
+    "name": "Orijin Oud",
+    "category": "fragrance",
+    "profile": "Oud",
+    "type": "Eau de Parfum",
+    "size": "50ml",
+    "price": 145000,
+    "description": "A majestic olfactory journey through the ancient forests of Yorubaland, where sacred resins meet modern elegance.",
+    "notes": {
+      "top": "Bergamot, Nigerian Red Saffron",
+      "heart": "Aged Oud Wood, Damask Rose",
+      "base": "Mysore Sandalwood, Gold Amber"
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDysN3BFkrdPciFatN1u2XYbo7ppX1JORM-A3tbsl7e3l6-KjXl3n5fGEKpqFnsIsa8Sio1tUXN2IqH2hPvbV2eASsAzWXiS_3uYg9oMnXbOTPVlTVXakz8kGf3pXyBp8EvZ1FeX6434Gy86v02ggSLilo1TeZCw7-7MmSQai8rQPIHjgAReRLsRkAzLDgLIz3ZlfiLQy1T6L7gL91kT2Zv_EhVn9hxlvwgdSpMkr-L1rJ8gjs5a2OA",
+    "url": "orijin-oud.html",
+    "badge": "Signature Scent No. 04"
+  },
+  {
+    "id": "oud-savannah",
+    "name": "Oud of the Savannah",
+    "category": "fragrance",
+    "profile": "Oud",
+    "type": "Limited Edition Extrait",
+    "size": "100ml",
+    "price": 450000,
+    "description": "Rare wild-harvested oud from the northern savannahs, aged in cedar barrels for unparalleled warmth.",
+    "notes": {
+      "top": "Pink Peppercorn, Cardamom",
+      "heart": "Smoky Incense, Leather, Savannah Oud",
+      "base": "Civet Accord, Dark Honey, Vetiver"
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCxqvjadXs-KXChR_PYUbgFDSG33KYUfqYHpk-rmAh1cSSr8HhU8am47uJ1O232A7okLFvRfhWItKjPQD4HulGDKQro67mgTcrfPo-8xmkLCrC2FJRtPWtllFbYwRTgEPUVNS4LYrTG_HAi_vccW19_WqzJremJbklCHeG46ezcTazlNWVtHnlw7coE79Hw5nUjeqFmZjlaVwR_sJxlXAs63sd5D-79jZyNqqLMAMijHTTsh3pLIQ0W",
+    "url": "collections.html",
+    "badge": "Heritage Collection"
+  },
+  {
+    "id": "bronze-coast-oil",
+    "name": "Bronze Coast Oil",
+    "category": "fragrance",
+    "profile": "Citrus",
+    "type": "Artisanal Concentré",
+    "size": "30ml",
+    "price": 120000,
+    "description": "Sun-drenched coastal salt and bitter orange suspended in pure cold-pressed botanical oils.",
+    "notes": {
+      "top": "Bitter Orange, Coastal Salt, Green Neroli",
+      "heart": "Ylang Ylang, Ginger Blossom",
+      "base": "Driftwood, White Musk, Warm Amber"
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDdG7X9XucBB-8544ATso9eirG2YJ24aIVxxrLmzIg-k0a_Qvy_1CwC8hN4JfJTQmpLYk6u17sYpYIcVjwLXBg0sE2pGnpZF3vVyvr_yHMrg4gWJuMeMlG0DqUJCz4imv_PW_TqrpQJuRrQa13qoFszf_ZtGfJU4CMMRyoBT4exwupc96EiQ4JurmweJq1M--WeQuLFrEKRbo6-hSCKiXljDreMMI4Z-2G0PJ5p5eT1q-phUp0oJZRP",
+    "url": "collections.html",
+    "badge": "Signature Scents"
+  },
+  {
+    "id": "midnight-oud",
+    "name": "Midnight Oud",
+    "category": "fragrance",
+    "profile": "Spicy",
+    "type": "Eau de Parfum",
+    "size": "50ml",
+    "price": 185000,
+    "description": "A seductive nocturnal blend of nocturnal jasmine, charred vetiver, and smoky frankincense.",
+    "notes": {
+      "top": "Black Pepper, Nutmeg, Blood Orange",
+      "heart": "Night Jasmine, Frankincense, Birch Tar",
+      "base": "Smoky Oud, Patchouli, Benzoin"
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAISt4MjLWwrzz7ftvaqYcLho8HhlW_CWYKGBrD1pJTZ32WSVLefVHnKgnJHQcEgFB8MonRUGJXefSxj6Xi7W3-i2xjpkeGE_6avU9Lssa2hRaTq7OHk8-RxzowIH_efb5MqpXB7B9uj521sxy9cWDP9YDGE2eXYDQMbSTQAU5YSsiArpxI6zHOmWvrAQ_SSHtMYGmG2DTgvG_g7yAXJrH8b0GR4xfP7b_PgbuwbwflntNtG_g3lD1w",
+    "url": "collections.html",
+    "badge": "Nocturne Series"
+  },
+  {
+    "id": "zarafa-bloom",
+    "name": "Zarafa Bloom",
+    "category": "fragrance",
+    "profile": "Floral",
+    "type": "Parfum Intense",
+    "size": "50ml",
+    "price": 160000,
+    "description": "Vibrant spiced hibiscus harmonized with Calabrian bergamot and velvety night musk.",
+    "notes": {
+      "top": "Spiced Hibiscus, Calabrian Bergamot",
+      "heart": "Red Lotus, Orange Blossom, Heliotrope",
+      "base": "Golden Vanilla, White Amber, Cedar"
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBSRX_nxs5OxR_8tz36v3Yq7qy5Sxx0-BG-pxrA3elLaR0FZUj_21gaLCyEdJSE7ehdmKQ-uwshkvUu8zDSv-OFU4aSxN8mK_oxvuPIhGuKBZOfyhCwGiMeuz-MtvZg6nFwKmFE4T95GS3ExB4WLXSC8sfQzU-79Egz1UDTVb1cb8vsx8Ah5QUAYJBB6mHB2w0f6WbLIBMceEG8pLbKE9pLtK17l8eHGgWEQX7kQk_AR5LzKLzMVDu",
+    "url": "collections.html",
+    "badge": "Botanical Splendor"
+  },
+  {
+    "id": "sahara-spice",
+    "name": "Sahara Spice",
+    "category": "fragrance",
+    "profile": "Spicy",
+    "type": "Eau de Parfum",
+    "size": "50ml",
+    "price": 175000,
+    "description": "The fiery golden sands captured in warm cinnamon, clove leaf, precious labdanum, and rich tonka.",
+    "notes": {
+      "top": "Cinnamon Bark, Golden Clove",
+      "heart": "Labdanum, Dates, Roasted Tonka",
+      "base": "Atlas Cedar, Dark Honey, Tobacco"
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC9YAXYPY59ikcAGHPV1QwI7g3pbwhPs8fx14fayVd8VZY3fZb_JajJxEqGCn3PE9hh0MoSEWo8sf0A1mYiOjhwQQdTMLKRN8aUSehEOkYVhBR5UIDb0ddmiYVR4CHs1yZPKTIFVfayh8brvGYkAA51Jam7Kk4ZtSKuzPfVd59tu4RXhsbC9GypvHkkyrQaGLrZoYFhaRLd_oSdWrPjUaFINp8n2mMkB5y3WOQVMhyOaMZyGG53AO0f",
+    "url": "collections.html",
+    "badge": "Sahel Scent"
+  },
+  {
+    "id": "oba-pendant",
+    "name": "Oba Pendant",
+    "category": "jewelry",
+    "profile": "Handcrafted Gold",
+    "type": "Fine Jewelry",
+    "size": "24k Gold / Bespoke Chain",
+    "price": 850000,
+    "description": "Hand-carved 24k gold pendant celebrating the Benin bronze tradition, cast with exquisite royal emblems.",
+    "notes": {
+      "material": "24k Solid Gold, Hand-forged",
+      "craft": "Lost-wax Casting Technique",
+      "origin": "Benin City Atelier"
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB3f67dTwm6SmIoBWIEBrVuAjPLM6Wl5FmEjMa0SaF9QEsPgsTzJUFMJsiAaJWFzOfzOrsZefSgd7wZPEHwf20G1mIHsr8zFZEIglAbh6Nv4F0r1vplpY3_Lf873zFtqrTqmcUXFtE8gCxyp2t5CNoeK4RPEin5hU_yDWpqrV9NVdpKb6VujitAQjbUZGePtgZhMFfwmgUs9r1IpQHVY142UXEZ3WKk2g5WsSzxI_SXefsv6b_WmY6x",
+    "url": "collections.html",
+    "badge": "Royal Atelier"
+  },
+  {
+    "id": "ile-ife-beads",
+    "name": "Ile-Ife Beads",
+    "category": "jewelry",
+    "profile": "Beadwork",
+    "type": "Artisanal Adornment",
+    "size": "Imperial Strand",
+    "price": 320000,
+    "description": "Authentic hand-ground coral and terracotta beads interspersed with 18k gold beads.",
+    "notes": {
+      "material": "Genuine Mediterranean Coral & 18k Gold",
+      "craft": "Ancestral Beading",
+      "origin": "Osun State"
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCfN_1DyliahaG6p0p6lUVBsmMLnVo6deNQuVC--cR8J_zY_N7-jUa3O0-78Hn11avCq1TB58d48RtTKkyJazpiYbdBMgFu53QoXXB04nBmayan-f_tIMQjUz7eFrkBZ3XMauGV5fEgqOeYn0PGX9-ZZnsG_qpt2tEVMpPSXFKXWHNNi_MC5Va4mC6EAiFTGa5OHHju8RFvQLUpt2jvknw7g-6pLyH9PwQmgvGpXqjTmrqSHN2lfqnB",
+    "url": "collections.html",
+    "badge": "Ancestral Heritage"
+  },
+  {
+    "id": "trinity-rings",
+    "name": "Trinity Rings",
+    "category": "jewelry",
+    "profile": "Gemstones",
+    "type": "Fine Jewelry Set",
+    "size": "Custom Sizing Available",
+    "price": 480000,
+    "description": "Three interlocking bands of yellow, rose, and white gold set with raw Nigerian emeralds.",
+    "notes": {
+      "material": "Tri-Color 18k Gold, Rough Emeralds",
+      "craft": "Micro-Pave Setting",
+      "origin": "Jos Plateau Gem Mines"
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuA1Lnjh_8Oig140-kChz_vnDJKkkdlKJUot6Uy9PAqCWa8XwD3E1lPt0pjj4CuTY_zfiVr9JsYIiysqXXnI6NEzQ5ycdRb86-P95oroNElhrFf4PYONH7zYIVBPGP_G-qUv7_yU_6YsWJk-hopNfJI-RBNewdGC2tcrZDw660sWEG8mQ7e4XCVHWI9dvl-H4oD-soy9E3MPACXOETNPqxiR6xQyXJt5Z7MrQkBIIxKCOnnx0hUzihTX",
+    "url": "collections.html",
+    "badge": "Gemstone Series"
+  },
+  {
+    "id": "royal-aso-neckpiece",
+    "name": "The Royal Aso Neckpiece",
+    "category": "jewelry",
+    "profile": "Silver Filigree",
+    "type": "Statement Collar",
+    "size": "Sculpted Collar",
+    "price": 1250000,
+    "description": "A majestic sculpted neckpiece uniting filigree sterling silver and molten gold accents.",
+    "notes": {
+      "material": "Sterling Silver & 24k Gold Vermeil",
+      "craft": "Northern Filigree Guild",
+      "origin": "Kano Artisan Quarter"
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDCQUZikZd-iR1y15-yQqFQhTSLmDsm_zXWvldyiBbQaRL4Xr-9OdPmnssevhf3vG8Tm3a97ljHFWc6rqY_uvKG1gyfEtqhDZlhvSmrxiSZZHKH2zy0vFfZ-Y3QuJVMjApA3_Wplg5DqUejwa9mBDq8gclmKwmN0pigNiDg1EHnharsZZ04G12npHk4S69Aa1bUms0fRFZAkbbFRi6c6YXiEE6uMOA618Ngr5JLuV546fvBXHS8CJ8N",
+    "url": "home.html",
+    "badge": "Ora Collection"
+  },
+  {
+    "id": "heritage-hoops",
+    "name": "Heritage Hoops",
+    "category": "jewelry",
+    "profile": "Handcrafted Gold",
+    "type": "Earrings",
+    "size": "Medium / Large",
+    "price": 260000,
+    "description": "Textured gold hoops inspired by traditional Fulani architectural reliefs.",
+    "notes": {
+      "material": "18k Solid Gold",
+      "craft": "Chased & Repoussé Metalwork",
+      "origin": "Abuja Studio"
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAiXMDM2mCN8pOgxHcC0QjkX6vD2YbcAOgL_ZZ9UV_fyqZ6UnRb1k3KmyPaIE44frkSU8ARrieI05gvoz3BLUGic7pQQMcuQZVUzVeTHfJCEsPOOcJG9S0wmKklrr-6TLSpcEutGDc-A5IYLqGmX-i5QDfBKrOK3X2ezA_OM0RBPeqyVr_VjqiZLzjSyKvYqdzWCERDDnUHdeflsGusyK9NRb4fHBc0gNLBSawe3mpusk9RA70EGW3N",
+    "url": "home.html",
+    "badge": "Atelier Exclusive"
+  },
+  {
+    "id": "adire-cuff",
+    "name": "Adire Cuff Series",
+    "category": "jewelry",
+    "profile": "Silver Filigree",
+    "type": "Cuff Bracelet",
+    "size": "Adjustable Fit",
+    "price": 380000,
+    "description": "An etched cuff bracelet featuring indigo resist patterns translated into precious metals.",
+    "notes": {
+      "material": "Sterling Silver & Oxidized Patina",
+      "craft": "Acid Etching & Hand Polishing",
+      "origin": "Lagos Island Atelier"
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuC1K6nQDWaP9llEDUoT3ijYYhMEjzEQZAHVNO88cnN0yUQhPxSMEuOcOoCxJ-AmiO2K5_1pVDygYxMqSX7MjoBFhVJyE_l35gt9U580hMwA0xqksroo7SyonVjSnnbMDYfeVC93R4-DWMp0Io4Nw3BAWK4gqRzju-NBUrrOAqDdc5AxAFePQt2DDORtS759JR_z1jtcCPdG1k4iNPZp0-Htx4yFmdmtO5fYJP3DEjlijG0-S59pL2En",
+    "url": "home.html",
+    "badge": "Signature Cuff"
+  }
+]
